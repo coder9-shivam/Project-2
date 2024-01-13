@@ -13,3 +13,10 @@ html, body{
     line-height: 1.8rem;
     color: #666;
 }
+
+.img_1{
+    background-image: url(IMAGE/image1.png);
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
